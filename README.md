@@ -27,8 +27,6 @@ Automated test suite for a **Library Management System** database, built to prac
 | Data Validation | No NULLs, no duplicate emails, no orphan records |
 | Constraint Enforcement | Duplicate emails, invalid foreign keys, and missing required fields are correctly **rejected** |
 
-Full test case list and explanations are in [`Database_Testing_Project_Documentation.docx`](./Database_Testing_Project_Documentation.docx).
-
 ## ⚙️ Setup
 
 ```bash
